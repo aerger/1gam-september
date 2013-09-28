@@ -1,0 +1,62 @@
+1GAM-Sept_TODO.txt
+
+
+Tazzmania youtube video gameplay: http://www.youtube.com/watch?v=GTFr_Syjz6Y
+Tazzmania manual: in dropbox (sept c2 projects folder)
+
+
+Still try to incorporate the hexagons theme into the game?
+
+_____________________________________
+
+HEX SHAPED WALLS CLOSING IN? HMMMMMM.
+_____________________________________
+
+.
+.
+.
+.
+.
+.
+.
+
+
+----------
+ HEXAGONS
+----------
+
+Scratch ideas:
+03 Sept 2013
+
+
+clusters/groupings of hexagons
+gathering similar colors/patterns into groupings, touch-based
+hourglass-shaped hexagons
+
+irregular hexagons-- random shapes, sizes, side lengths, etc. 
+
+stacking
+shaping
+
+HONEYCOMBS
+
+translucent shapes, falling spinning etc
+
+math or spelling with hex-shaped tiles, math-blaster style?
+
+
+incorporating hex-based (or simulated to appear that way) field of view/occlusion/flashlight effects
+
+
+ASTEROIDS, HAH
+
+
+**** (considering move to using Canvas plugin? No WebGL, just Canvas2D...)
+
+
+Other Resources:
+----------------
+http://www.redblobgames.com/grids/hexagons/
+https://plus.google.com/108320565012530008385/posts
+http://www.mathsisfun.com/geometry/hexagon.html
+
